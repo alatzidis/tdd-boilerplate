@@ -1,0 +1,14 @@
+# Vagrant
+/.vagrant/
+
+# NPM
+/node_modules/
+
+# Build files
+/build*/
+
+# Coverage
+/coverage/
+
+# Logfiles
+*.log
